@@ -24,3 +24,9 @@ Com o Spring Boot, não é necessário configurar manualmente DispatcherServlet,
 <img src="./Capturas de tela/Item 5(1).png"/>
 <img src="./Capturas de tela/Item 5(2).png"/>
 <img src="./Capturas de tela/Item 5(3).png"/>
+
+6 - Desenvolvimento de Serviços REST
+
+Usei o controller para os endpoints, de forma que o código ficasse o mais claro e limpo possível. Também usei rotas claras como /math/add e /math/subtract para as operações. Criei um arquivo separado do Main para que o Controller ficasse correto e limpo.
+
+a
