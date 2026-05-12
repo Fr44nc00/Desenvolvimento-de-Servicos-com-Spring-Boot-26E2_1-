@@ -6,3 +6,5 @@ Escolhi o Maven pois é mais fácil de utilizar, já estava acostumado com os pr
 
 2 - Iniciação do Projeto
 
+<img src="./Capturas de tela/Item 2(1).png"/>
+<img src="./Capturas de tela/Item 2(2).png"/>
