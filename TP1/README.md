@@ -29,4 +29,11 @@ Com o Spring Boot, não é necessário configurar manualmente DispatcherServlet,
 
 Usei o controller para os endpoints, de forma que o código ficasse o mais claro e limpo possível. Também usei rotas claras como /math/add e /math/subtract para as operações. Criei um arquivo separado do Main para que o Controller ficasse correto e limpo.
 
-a
+<img src="./Capturas de tela/Item 6(1).png"/>
+<img src="./Capturas de tela/Item 6(2).png"/>
+<img src="./Capturas de tela/Item 6(3).png"/>
+<img src="./Capturas de tela/Item 6(4).png"/>
+<img src="./Capturas de tela/Item 6(5).png"/>
+<img src="./Capturas de tela/Item 6(6).png"/>
+<img src="./Capturas de tela/Item 6(7).png"/>
+<img src="./Capturas de tela/Item 6(8).png"/>
