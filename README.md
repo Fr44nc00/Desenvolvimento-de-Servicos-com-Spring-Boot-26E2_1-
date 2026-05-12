@@ -20,3 +20,7 @@ Usar o Maven garante um controle centralizado no pom.xml, fixa versões estávei
 Com o Spring Boot, não é necessário configurar manualmente DispatcherServlet, Jackson, etc. Apenas anotando a classe principal com @SpringBootApplication, o framework já configura o servidor embutido (Tomcat), JSON converter e mapeamento de rotas. Isso elimina código repetitivo e arquivos XML.
 
 5 - Configuração da IDE
+
+<img src="./Capturas de tela/Item 5(1).png"/>
+<img src="./Capturas de tela/Item 5(2).png"/>
+<img src="./Capturas de tela/Item 5(3).png"/>
