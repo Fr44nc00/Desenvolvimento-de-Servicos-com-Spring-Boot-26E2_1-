@@ -1,13 +1,10 @@
 # Desenvolvimento-de-Servicos-com-Spring-Boot-26E2_1-
 
-1 - Escolha da Ferramenta de Construção
+1 - Projeto criado pelo Initializer
+<img src="./Capturas de tela/Item 1(1).png"/>
 
-Escolhi o Maven pois é mais fácil de utilizar, já estava acostumado com os procedimentos e ele traz mais simplicidade e clareza que o Gradle.
-
-2 - Iniciação do Projeto
-
-<img src="./Capturas de tela/Item 2(1).png"/>
-<img src="./Capturas de tela/Item 2(2).png"/>
+Projeto criado pelo CLI
+<img src="./Capturas de tela/Item 1(2).png"/>
 
 Spring Initializr Web é melhor para iniciantes ou quando prefere uma abordagem mais visual e fácil de entender. Já o Spring Boot CLI seria melhor em ambientes de automação, scripts ou quando se deseja rapidez sem abrir navegador. Nesse caso, apenas fiz com o CLI para demonstrar como seria, porém o projeto foi desenvolvido com o Spring Initializr, principalmente pois foi a forma com a qual o professor ensinou os procedimentos em aula.
 
